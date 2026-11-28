@@ -1,0 +1,9 @@
+# AIE314 Group Project - Loading Brain... 1%
+# Python 3.13
+# ติดตั้ง: pip install -r requirements.txt
+
+pandas>=3.0        # อ่าน/แปลง/รวมข้อมูล (โปรเจกต์รันบน pandas 3 ที่ใช้ dtype str)
+numpy              # np.nan
+matplotlib>=3.7    # กราฟ และ bar_label แบบ fmt "{:,.0f}" (ต้อง 3.7 ขึ้นไป)
+seaborn>=0.13      # barplot / lineplot / heatmap
+ipykernel          # รัน notebook ใน VS Code / Jupyter
